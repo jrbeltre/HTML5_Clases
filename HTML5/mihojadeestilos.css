@@ -1,0 +1,12 @@
+
+
+
+#head1{background-color: rgb(119, 140, 243);}
+header{background-color: rgb(211, 214, 231);}
+li{ display: inline;}
+#barraLateral{float: left; background-color: rgb(119, 140, 243); height: 612px;}
+#seccionprincipal{margin-left: 214px;}           
+#tituloArt1{margin-top: 10px;margin-bottom: 10px;}
+article{background-color: rgb(119, 140, 243);}
+#tituloArt2 {margin-top: 10px;margin-bottom: 10px;}
+#lastFooter{background-color: rgb(208, 226, 43); clear: both; margin-top: 10px;} 
